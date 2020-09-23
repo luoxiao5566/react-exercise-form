@@ -4,8 +4,8 @@ import MyProfile from "./components/MyProfile";
 
 const App = () => {
   return (
-    <div className='App'>
-      <MyProfile/>
+    <div className='App'>     
+      <MyProfile />
     </div>
   );
 };
